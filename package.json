@@ -1,13 +1,13 @@
 {
   "name": "als-typograph",
   "main": "./lib/als-typograph",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Art. Lebedev Studio Typograpf implementation for Atom",
   "keywords": [
-      "typograph",
-      "typograf",
-      "text tools",
-      "editor tools"
+    "typograph",
+    "typograf",
+    "text tools",
+    "editor tools"
   ],
   "repository": "https://github.com/nim579/atom-als-typograph",
   "license": "MIT",
